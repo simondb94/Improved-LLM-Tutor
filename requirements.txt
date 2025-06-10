@@ -1,0 +1,8 @@
+openai 
+ollama 
+pandas 
+matplotlib 
+rich 
+python-dotenv 
+ipython 
+jupyter 

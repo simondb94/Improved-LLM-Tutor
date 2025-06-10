@@ -1,0 +1,7 @@
+.env 
+__pycache__/ 
+*.pyc 
+.ipynb_checkpoints/ 
+.DS_Store 
+my_tutor_session.json 
+tutor_history.json 
